@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Brandon Le
+
+I believe that technology can enable us to be better by spending less time toiling and more time creating, improving, and enjoying our technical creations and their real world impact.
